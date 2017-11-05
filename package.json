@@ -1,0 +1,31 @@
+{
+
+  "name": "andelalearningchallenge",
+  "version": "1.0.0",
+  "description": "A nodejs app, to manage students data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronVikta/AndelaLearningChallenge.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Awam Victor Aaron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronVikta/AndelaLearningChallenge/issues"
+  },
+  "homepage": "https://github.com/AaronVikta/AndelaLearningChallenge#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.12.4"
+  }
+}
